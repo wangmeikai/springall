@@ -1,0 +1,6 @@
+#
+#Wed Apr 15 00:40:49 CST 2020
+com.wmk.postprocessor.MyBeanPostProcessor_Aop=org.springframework.stereotype.Component
+com.wmk.config.conf=org.springframework.stereotype.Component
+com.wmk.postprocessor.MyBeanFactoryPostProcessor=org.springframework.stereotype.Component
+com.wmk.service.impl.UserServiceImpl=org.springframework.stereotype.Component
